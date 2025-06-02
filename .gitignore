@@ -4,4 +4,4 @@ venv/
 vectorstores/
 *.json
 *.env
-*.txt
+test_data.txt
