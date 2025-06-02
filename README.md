@@ -1,7 +1,7 @@
 # RAG-for-The-Batch
 Multimodal Retrieval-Augmented  Generation (RAG) System that retrieves relevant news articles from The Batch - https://www.deeplearning.ai/the-batch/
 
-**Important: check Task report.pdf file**
+**Important:** check Task report.pdf file. You can also see the [Demo](https://drive.google.com/file/d/1nj5u7Mmzbsg2KEhs15PwA8X92NszZDnE/view?usp=drive_link)
 
 ## 🚀 Technology Stack
 
